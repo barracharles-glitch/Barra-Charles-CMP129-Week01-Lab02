@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response: Use off the math class
+Response: Use of the math class
 
 ## Summary
 
