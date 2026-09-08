@@ -11,8 +11,8 @@
 
 Did you use an AI tool for this lab?
 
-- [ ] Yes
-- [/] No
+- [X] Yes
+- [ ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -20,19 +20,19 @@ If yes, complete the sections below. If no, write “No AI tool was used” unde
 
 Examples: GitHub Copilot, ChatGPT, Microsoft Copilot, or another tool.
 
-Tool:
+Tool: I used github copilot
 
 ## Assistance Requested
 
 Describe what you asked the AI tool to help you understand or troubleshoot.
 
-Response:
+Response: to try and help me understand how to print the bar chart
 
 ## How I Used the Assistance
 
 Explain which suggestions you used, changed, or rejected. Do not paste an entire AI conversation.
 
-Response:
+Response: i didn't really learn from the ai as much as i did from Prof. Hedhli
 
 ## Testing and Verification
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response: Use of the math class
+Response: Using \n to store lots of information in strings
 
 ## Summary
 
