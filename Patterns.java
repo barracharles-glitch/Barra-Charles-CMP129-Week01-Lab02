@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Patterns {
     public static void main(String args []) {
         int stores;
+        String asterisk = "";
         
 
         Scanner int_input = new Scanner(System.in);
