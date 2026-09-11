@@ -9,13 +9,14 @@ public class SalesBarChart {
             }
             System.out.println();
             ast += 1;
-        for (int j = 0; j < 10; j++){
+        }
+        for (int q = 0; q <= 10; q++){
             for (int i = 0; i < ast; i++){
                 System.out.print("*");
             }
             System.out.println();
-            ast += 1;
-            
+            ast -= 1;
+        
         }
     }
 }
